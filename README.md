@@ -9,4 +9,4 @@ Note that this is a draft version, and it is your personal responsibility to eve
 
 # Third-cycle Studies
 
-In the European education system, Third-cycle studies, which you can safely assume as almost equivalent to PhD studies, follow the first-cycle and second-cycle stuides (Bachelor's and Master's). You can read more about the cycles (here)[https://eacea.ec.europa.eu/national-policies/eurydice/content/third-cycle-phd-programmes-80_en].
+In the European education system, Third-cycle studies, which you can safely assume as almost equivalent to PhD studies, follow the first-cycle and second-cycle stuides (Bachelor's and Master's). You can read more about the cycles [here](https://eacea.ec.europa.eu/national-policies/eurydice/content/third-cycle-phd-programmes-80_en).
